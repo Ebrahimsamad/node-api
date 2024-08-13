@@ -1,0 +1,10 @@
+2024-08-13 18:11:03 info: Post Created 66ba3585b0b561aca61ea4c1
+2024-08-13 18:16:52 error: UnAuthorized..  JsonWebTokenError: invalid token
+2024-08-13 18:32:44 info: user Logged In
+2024-08-13 18:33:02 info: user Logged In
+2024-08-13 18:34:12 info: user Logged In
+2024-08-13 18:35:54 info: user Logged In
+2024-08-13 18:36:18 info: user Logged In
+2024-08-13 18:36:39 error: Faild To Register..  ValidationError: "email" must be a valid email
+2024-08-13 18:38:23 info: user Logged In
+2024-08-13 18:39:11 error: UnAuthorized..  JsonWebTokenError: invalid signature
